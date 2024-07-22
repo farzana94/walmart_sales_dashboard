@@ -1,6 +1,6 @@
 # Walmart Sales Dashboard
 
-![Project Image](assets/dashboard.jpg)
+![Project Image](assets/dashboard.png)
 
 ## Overview
 This project provides a web-based dashboard for visualizing Walmart sales data using Streamlit, Plotly, and Pandas. It aims to provide interactive visualizations and insights into sales trends and product performance.
@@ -16,8 +16,7 @@ Check out the live demo [here](https://walmart-sales-dashboard.streamlit.app/).
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/its-saran/sales_dashboard.git
-   cd sales_dashboard
+   git clone https://github.com/farzana94/walmart_sales_dashboard.git
    ```
    
 2. Install dependencies from requirements.txt:
